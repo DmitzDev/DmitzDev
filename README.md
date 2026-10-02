@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
-<a href="https://cvbuildermd.vercel.app/">
+<a href="https://mitchdevportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
