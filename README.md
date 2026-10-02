@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/main/light.svg">
-  <img alt="Mitchelle (MitchDev.)" src="https://raw.githubusercontent.com/DmitzDev/MitchDev/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/main/light.svg">
+  <img alt="Mitchelle (MitchDev.)" src="https://raw.githubusercontent.com/DmitzDev/DmitzDev/main/dark.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/DmitzDev/MitchDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/DmitzDev/DmitzDev/output/snake-dark.svg" />
 </picture>
 
 </div>
@@ -50,9 +50,9 @@
 <!-- ===== PROJECTS SHOWCASE ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/projects/projects.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/MitchDev/projects/projects-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/DmitzDev/MitchDev/projects/projects.svg" alt="Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/projects/projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DmitzDev/DmitzDev/projects/projects-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/DmitzDev/DmitzDev/projects/projects.svg" alt="Projects" />
 </picture>
 </div>
 
