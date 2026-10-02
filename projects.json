@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CV Studio",
+    "repo": "DmitzDev/CV-Builder_MD",
+    "logo": "cvstudio.png",
+    "description": "Real-time resume builder with live layout customization & vector PDF export",
+    "tags": ["React", "JavaScript", "Vite", "Modern CSS"]
+  },
+  {
+    "name": "MDev. | Blog",
+    "repo": "DmitzDev/Mitch-Dev-Blog",
+    "logo": "mitchblog.png",
+    "description": "Full-stack publishing platform with real-time Firebase sync & dynamic routing",
+    "tags": ["React", "Firebase", "Node.js", "CSS3"]
+  },
+  {
+    "name": "Naruto-Monopoly Game",
+    "repo": "DmitzDev/Naruto-Monopoly-MitchDev.",
+    "logo": "monopoly.png",
+    "description": "Interactive board game simulator with deterministic state transitions & battle resolution",
+    "tags": ["React", "JavaScript", "Custom CSS", "State Machine"]
+  },
+  {
+    "name": "Tambayan App",
+    "repo": "DmitzDev/Tambayan",
+    "logo": "tambayan.png",
+    "description": "Cross-platform social hub & community app for students with real-time messaging",
+    "tags": ["Flutter", "Dart", "Firebase", "Node.js"]
+  },
+  {
+    "name": "Personal Portfolio",
+    "repo": "DmitzDev/Personal_PortfolioDev",
+    "logo": "portfolio.png",
+    "description": "Engineered portfolio with responsive glassmorphism UI & interactive project case studies",
+    "tags": ["React", "Vite", "Modern CSS", "JavaScript"]
+  }
+]
